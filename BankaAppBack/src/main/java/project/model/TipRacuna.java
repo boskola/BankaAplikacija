@@ -100,6 +100,4 @@ public class TipRacuna {
 		TipRacuna other = (TipRacuna) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
 }

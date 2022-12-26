@@ -116,7 +116,4 @@ public class Racun {
 		Racun other = (Racun) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
-
 }
