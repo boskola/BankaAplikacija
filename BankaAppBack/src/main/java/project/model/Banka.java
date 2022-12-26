@@ -97,7 +97,4 @@ public class Banka {
 		Banka other = (Banka) obj;
 		return Objects.equals(id, other.id);
 	}
-	
-	
-
 }
