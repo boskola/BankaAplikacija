@@ -102,7 +102,6 @@ class Racuni extends React.Component{
             console.log(res);
             alert('Racun was deleted successfully!');
             window.location.reload();
-            //this.deleteFromState(linijaId);
         })
         .catch(error => {
             // handle error

@@ -124,7 +124,7 @@ class AddRacun extends React.Component{
                     </Form.Group>
 
                     <Form.Group>
-                    <Form.Label htmlFor="banke">Banke</Form.Label>
+                    <Form.Label htmlFor="banke">Banka</Form.Label>
                     <Form.Select  name="idBanke" onChange={event => this.bankaSelectionChanged(event)}>
                         <option key=""></option>
                         {

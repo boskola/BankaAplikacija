@@ -4,10 +4,10 @@ import { Route, Link, HashRouter as Router, Routes, Navigate } from 'react-route
 import { Navbar, Nav, Container, Button} from 'react-bootstrap';
 import NotFound from "./components/NotFound";
 import Home from "./components/Home";
-import Racuni from "./components/linije/Racuni";
-import AddRacun from "./components/linije/AddRacun";
-import EditRacun from "./components/linije/EditRacun";
-import Prenos from "./components/linije/Prenos";
+import Racuni from "./components/accounts/Racuni";
+import AddRacun from "./components/accounts/AddRacun";
+import EditRacun from "./components/accounts/EditRacun";
+import Prenos from "./components/accounts/Prenos";
 import Login from './components/authorization/Login';
 import { logout } from './services/auth';
 
