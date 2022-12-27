@@ -72,7 +72,6 @@ public class JpaKorisnikService implements KorisnikService {
             return false;
         }
 
-        // dodatak za zadatak 2
         String password = korisnikPromenaLozinkeDto.getLozinka();
         if (!korisnikPromenaLozinkeDto.getLozinka().equals("")) {
             password = passwordEncoder.encode(korisnikPromenaLozinkeDto.getLozinka());
