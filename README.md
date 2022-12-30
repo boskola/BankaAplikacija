@@ -1,20 +1,20 @@
 # BankApp
 
 Backend
--Relational Database (MySQL)
--Java
--Spring framework 
-  -Spring Data JPA with Hibernate implementation
-  -Dependency injection (Inversion of Control)
-  -Data Transfer Object
-  -Spring Security
-  -Authentication and authorization
+- Relational Database (MySQL)
+- Java
+- Spring framework 
+  - Spring Data JPA with Hibernate implementation
+  - Dependency injection (Inversion of Control)
+  - Data Transfer Object
+  - Spring Security
+  - Authentication and authorization
   
 Frontend
--Javascript
--React
-  -ES6
-  -SPA
-  -JSX
-  -Sorting, Pagination
-  -Bootstrap
+- Javascript
+- React
+  - ES6
+  - SPA
+  - JSX
+  - Sorting, Pagination
+  - Bootstrap
