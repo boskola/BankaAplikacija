@@ -13,10 +13,9 @@
   - Authentication and authorization
   
 **Frontend**
-- Javascript
+- Javascript (ES6)
 - React
-  - ES6
-  - SPA
-  - JSX
-  - Sorting, Pagination
-  - Bootstrap
+   - SPA 
+   - JSX
+   - Sorting, Pagination
+   - Bootstrap
