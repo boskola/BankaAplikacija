@@ -1,7 +1,9 @@
 # BankApp
 
-Backend
+**Database**
 - Relational Database (MySQL)
+
+**Backend**
 - Java
 - Spring framework 
   - Spring Data JPA with Hibernate implementation
@@ -10,7 +12,7 @@ Backend
   - Spring Security
   - Authentication and authorization
   
-Frontend
+**Frontend**
 - Javascript
 - React
   - ES6
